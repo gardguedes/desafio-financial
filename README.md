@@ -69,5 +69,5 @@ Para garantir a conectividade entre "Table Date" e "f_vendas":
 - Criamos a coluna "Month Name" na "Table Date", com a informação do nome do mês da "f_vendas", utilizando a combinação das funções `DATE` e `FORMAT` para exibição com três caracteres (ex: Jan, Feb, Mar)
 - Excluímos a coluna "Month Name" da tabela "f_vendas"
 
-Com essa estruturação, garantimos a organização eficiente dos dados, permitindo a construção de um modelo de dados bem-relacionado e otimizado para análise.
+Essa estruturação garante a organização eficiente dos dados, permitindo a construção de um modelo de dados bem-relacionado e otimizado para análise.
 
